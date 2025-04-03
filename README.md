@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+⚡ Fun fact: I'm an Electrical and Computer Engineering Major
+(PLS HIRE ME)
 <!--
 **TheNguyen07/TheNguyen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
