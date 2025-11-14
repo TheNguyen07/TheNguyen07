@@ -31,9 +31,9 @@
 ---
 
 ## 🎯 Fun Facts
-- 🏸 Badminton enthusiast  
-- ☕ Boba tea lover  
-- 🎵 Rap music fan  
+- 🧗 Climbing enjoyer  
+- ☕ Boba lover  
+- ⚡ Embedded Summoner  
 
 ---
 
