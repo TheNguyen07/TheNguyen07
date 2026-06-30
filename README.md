@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hannah-tt-nguyen/)
+- LinkedIn: [linkedin.com/in/hannah-tt-nguyen](https://www.linkedin.com/in/hannah-tt-nguyen/)
 - Website: https://thenguyen07.github.io/
 
 
